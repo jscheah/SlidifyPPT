@@ -1,0 +1,10 @@
+base
+lattice
+ggplot2
+caret
+rpart
+randomForest
+survival
+mfp
+rpart.plot
+slidify
